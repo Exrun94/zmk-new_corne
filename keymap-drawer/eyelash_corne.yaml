@@ -247,10 +247,10 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
 combos:
 - p: [42, 47]
-  k: Ctl+SPC
+  k: Ctl+$$mdi:keyboard-space$$
   l: [Base]
 - p: [43, 46]
-  k: Ctl+PG UP
+  k: Ctl+PgUp
   l: [Base]
 - p: [45, 44]
   k: F12
