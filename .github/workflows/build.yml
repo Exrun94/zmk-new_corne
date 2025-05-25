@@ -7,4 +7,4 @@ on:
 
 jobs:
   build:
-    uses: darknao/zmk/.github/workflows/build-user-config.yml@rgb-layer-25.04
+    uses: Exrun94/zmk/.github/workflows/build-user-config.yml@corne-rgb
