@@ -182,13 +182,13 @@
         compatible = "zmk,combos";
 
         completion {
-            bindings = <&kp LC(SPACE)>;
+            bindings = <&kp LC(SPC)>;
             key-positions = <42 47>;
             layers = <0>;
         };
 
         lang {
-            bindings = <&kp LC(PAGE_UP)>;
+            bindings = <&kp LC(PG_UP)>;
             key-positions = <43 46>;
             layers = <0>;
         };
