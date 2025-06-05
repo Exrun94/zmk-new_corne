@@ -211,11 +211,11 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - Ctl+1
+  - {t: Ctl+2, s: Ctl+@}
+  - {t: Ctl+3, s: Ctl+#}
+  - {t: Ctl+4, s: Ctl+$}
+  - {t: Ctl+5, s: Ctl+%}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -249,7 +249,7 @@ combos:
 - p: [42, 47]
   k: Ctl+$$mdi:keyboard-space$$
   l: [Qwerty]
-- p: [43, 46]
+- p: [18, 22]
   k: Ctl+PgUp
   l: [Qwerty]
 - p: [45, 44]
@@ -257,16 +257,11 @@ combos:
   l: [Qwerty]
 - p: [18, 22]
   k: Ctl+1
-  l: [Qwerty]
 - p: [17, 23]
   k: Ctl+2
-  l: [Qwerty]
 - p: [16, 24]
   k: Ctl+3
-  l: [Qwerty]
 - p: [15, 25]
   k: Ctl+4
-  l: [Qwerty]
 - p: [14, 26]
   k: Ctl+5
-  l: [Qwerty]
