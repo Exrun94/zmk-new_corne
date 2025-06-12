@@ -28,7 +28,7 @@ layers:
   - {t: K, h: '$$mdi:apple-keyboard-control$$'}
   - {t: L, h: '$$mdi:apple-keyboard-option$$'}
   - {t: ;, h: RGUI, s: ':'}
-  - PRINTSCREEN
+  - Ctl+PgUp
   - {t: '[', s: '{'}
   - Z
   - X
@@ -208,7 +208,7 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - PRINTSCREEN
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - Ctl+1
@@ -248,9 +248,6 @@ layers:
 combos:
 - p: [42, 47]
   k: Ctl+$$mdi:keyboard-space$$
-  l: [Qwerty]
-- p: [18, 22]
-  k: Ctl+PgUp
   l: [Qwerty]
 - p: [45, 44]
   k: F12
