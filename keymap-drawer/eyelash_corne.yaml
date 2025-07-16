@@ -15,7 +15,7 @@ layers:
   - P
   - {t: \, s: '|'}
   - CLCK
-  - A
+  - {t: A, h: '$$mdi:apple-keyboard-command$$'}
   - {t: S, h: '$$mdi:apple-keyboard-option$$'}
   - {t: D, h: '$$mdi:apple-keyboard-control$$'}
   - {t: F, h: '$$mdi:apple-keyboard-shift$$'}
@@ -28,7 +28,7 @@ layers:
   - {t: K, h: '$$mdi:apple-keyboard-control$$'}
   - {t: L, h: '$$mdi:apple-keyboard-option$$'}
   - {t: ;, h: RGUI, s: ':'}
-  - Ctl+PgUp
+  - Ctl+GLOBE
   - {t: '[', s: '{'}
   - Z
   - X
@@ -45,7 +45,7 @@ layers:
   - {t: ']', s: '}'}
   - {t: '$$mdi:backspace$$', h: Symbols}
   - {t: '$$mdi:keyboard-esc$$', h: Number}
-  - {t: '$$mdi:backspace-reverse-outline$$', h: '$$mdi:apple-keyboard-control$$'}
+  - {t: '$$mdi:backspace-reverse-outline$$', h: FN}
   - {t: '$$mdi:keyboard-tab$$', h: '$$mdi:apple-keyboard-shift$$'}
   - {t: '$$mdi:keyboard-return$$', h: Number}
   - {t: '$$mdi:keyboard-space$$', h: Symbols}
@@ -211,11 +211,11 @@ layers:
   - PRINTSCREEN
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - Ctl+1
-  - {t: Ctl+2, s: Ctl+@}
-  - {t: Ctl+3, s: Ctl+#}
-  - {t: Ctl+4, s: Ctl+$}
-  - {t: Ctl+5, s: Ctl+%}
+  - Gui+1
+  - {t: Gui+2, s: Gui+@}
+  - {t: Gui+3, s: Gui+#}
+  - {t: Gui+4, s: Gui+$}
+  - {t: Gui+5, s: Gui+%}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
