@@ -145,8 +145,8 @@ layers:
   - {t: /, s: '?'}
   - '~'
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - AltGr+$$mdi:arrow-left-bold$$
-  - {t: 'Alt+$$mdi:arrow-right-bold$$', type: held alternate}
+  - AltGr+Sft+$$mdi:arrow-left-bold$$
+  - {t: 'Alt+Sft+$$mdi:arrow-right-bold$$', type: held alternate}
   Number:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - '!'
