@@ -176,7 +176,7 @@
         compatible = "zmk,combos";
 
         completion {
-            bindings = <&kp LC(SPACE)>;
+            bindings = <&kp LG(SPACE)>;
             key-positions = <42 47>;
             layers = <0>;
         };
