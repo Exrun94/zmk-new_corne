@@ -430,7 +430,7 @@
 
         FN {
             bindings = <
-&none        &none             &none       &none       &none       &none                       &none         &none                 &none              &none            &none         &kp LG(LS(N5))  &none
+&none        &none             &none       &none       &none       &none                       &none         &none                 &none              &none            &none         &kp LC(LS(N5))  &none
 &none        &kp LC(NUMBER_1)  &kp LC(N2)  &kp LC(N3)  &kp LC(N4)  &kp LC(N5)           &none  &none  &none  &kp C_BRIGHTNESS_DEC  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp C_BRI_UP  &none           &none
 &bootloader  &none             &none       &none       &none       &bt BT_NXT  &none           &none         &none                 &none              &none            &none         &none           &bootloader
                                            &to 0       &to 1       &none                                     &rgb_ug RGB_TOG       &rgb_ug RGB_EFF    &rgb_ug RGB_EFR
