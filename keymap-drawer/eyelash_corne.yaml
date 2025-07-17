@@ -28,7 +28,7 @@ layers:
   - {t: K, h: '$$mdi:apple-keyboard-control$$'}
   - {t: L, h: '$$mdi:apple-keyboard-option$$'}
   - {t: ;, h: RGUI, s: ':'}
-  - Gui+$$mdi:keyboard-space$$
+  - Ctl+$$mdi:keyboard-space$$
   - {t: '[', s: '{'}
   - Z
   - X
