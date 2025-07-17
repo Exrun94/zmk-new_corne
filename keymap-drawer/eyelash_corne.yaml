@@ -247,7 +247,7 @@ layers:
   - RGB EFR
 combos:
 - p: [42, 47]
-  k: Ctl+$$mdi:keyboard-space$$
+  k: Gui+$$mdi:keyboard-space$$
   l: [Qwerty]
 - p: [45, 44]
   k: F12
